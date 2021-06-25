@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food_Cafe99</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="state">
+        <item>Mathale</item>
+        <item>Colombo</item>
+
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Rice</item>
+        <item>Dal Rice</item>
+        <item>Roti</item>
+        <item>Piitu</item>
+        <item>Chineese Rolls</item>
+        <item>Fish Buns</item>
+        <item>Koththu</item>
+        <item>Paratha</item>
+        <item>Hoppers</item>
+        <item>Chease Kothtu</item>
+        <item>Dal Curry</item>
+
+
+        <item></item>
+
+    </string-array>
+
+
+</resources>
